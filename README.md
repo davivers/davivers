@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm David Apolinario 😊
 
-- 🌱 I’m currently learning: FullStack Bootcamp and Java Bootcamp
+<h3>- 🌱 I’m currently learning: JavaScript FullStack Bootcamp (Nodejs, Js ES6, Reactjs, MongoDb, NoSQL, MySQL, AWS, API REST ), Java FullStack Bootcamp ( Java, SQLServer, SpringBoot, API REST ) and Weird name Bootcamp ( .NET, C#, LINQ, SQLServer ) -  From : 04/12/21 To: 20/01/22 ... 245 hours of bootcamp. After 20/01/22 I'll be studying in depth Java, Ruby, AWS and Python. </h3> Hence my ambition to work with new technologies as a FullStack Software Engineer and who knows maybe in the Machine Learning Engineering field.
+
 - 😄 Pronouns: he/him
 
 

@@ -1,8 +1,15 @@
 ### Hi there 👋 I'm David Apolinario 😊
 
-<h3>- 🌱 I’m currently learning: Eduzz JavaScript FullStack Bootcamp (Nodejs, Js ES6, Reactjs, MongoDb, NoSQL, MySQL, AWS, API REST ), Amdocs Java FullStack Bootcamp ( Java, SQLServer, SpringBoot, API REST ) and Decola Tech Bootcamp ( .NET, C#, LINQ, SQLServer ) -  From : 04/12/21 To: 20/01/22 ... 245 hours of bootcamp. After 20/01/22 I'll be studying in depth Java, Ruby, AWS and Python. </h3> Hence my ambition to work with new technologies as a FullStack Software Engineer and in the Machine Learning Engineering field.
+<h3>- 🌱I'm currently learning: </h3> 
+<li>Eduzz FullStack Bootcamp ( Html, CSS, JavaScript, TypeScript, ReactJs, React Native, MySQL, NoSQL, MongoDB, NodeJs, AWS, Docker ) - 95hrs </li>
+<li> Amdocs Java Bootcamp (Java, Linux, SQL, SpringBoot ) - 88hrs </li>
+<li> Inter FrontEnd Dev Bootcamp ( JavaScript, Html, CSS, SQL, ReactJs, NodeJs ) - 99hrs </li>
+<li> MRV FullStack Dev bootcamp ( JavaScript, Html, CSS, Java, SQL, ReactJs, React Native, C#, .NET ) - 107hrs</li>
+<li> Decola Tech Bootcamp ( C#, SQL, .NET ) - 60 hrs </li>
+<li> 449 hours worth of Bootcamp. Willing to enroll in many more. </li>
 
-- 😄 Pronouns: he/him
+ 
+ 😄 Pronouns: he/him
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davivers&show_icons=true&theme=panda) 

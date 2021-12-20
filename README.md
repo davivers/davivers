@@ -6,7 +6,7 @@
 <li> Inter FrontEnd Dev Bootcamp ( JavaScript, Html, CSS, SQL, ReactJs, NodeJs ) - 99hrs </li>
 <li> MRV FullStack Dev bootcamp ( JavaScript, Html, CSS, Java, SQL, ReactJs, React Native, C#, .NET ) - 107hrs</li>
 <li> Decola Tech Bootcamp ( C#, SQL, .NET ) - 60 hrs </li>
-<li> 449 hours worth of Bootcamp. Willing to enroll in many more. </li>
+<li> 449 hours worth of Bootcamp. </li>
 
  
  😄 Pronouns: he/him

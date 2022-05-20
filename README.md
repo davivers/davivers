@@ -8,6 +8,6 @@
 <a href="https://instagram.com/meg_1d0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meg_1d0" height="30" width="40" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davivers&show_icons=true&locale=en&layout=compact" alt="davivers" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davivers&show_icons=true&locale=en" alt="davivers" width="40%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davivers&show_icons=true&locale=en" alt="davivers" width="55%" /></p>
 
 

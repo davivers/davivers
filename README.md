@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/david-a-42a652212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-a-42a652212" height="30" width="40" /></a>
 <a href="https://instagram.com/meg_1d0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meg_1d0" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davivers&show_icons=true&locale=en&layout=compact" alt="davivers" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=davivers&show_icons=true&locale=en" alt="davivers" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davivers&show_icons=true&locale=en&layout=compact" alt="davivers" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davivers&show_icons=true&locale=en" alt="davivers" width="40%" /></p>
 
 
